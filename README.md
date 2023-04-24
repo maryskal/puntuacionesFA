@@ -16,11 +16,11 @@ pip install -r requirements.txt
 Now open the FilmaffinityVoting.ipynb file in a jupyter prompt. Assign you user id to the user_id variable and the execute all the code. It will take some minutes to download all the information.
 
 # Files
--**.sourceFilmaffinityVoting.html**: a html with an example of the code execution with an specific user
+-**.source/FilmaffinityVoting.html**: a html with an example of the code execution with an specific user
 
--**.sourceFilmaffinityVoting.ipynb**: a file that can be modify to execute the code for any user
+-**.source/FilmaffinityVoting.ipynb**: a file that can be modify to execute the code for any user
 
--**.datasetpuntuacionesFA.csv**: a dataset with all the movies rated by the user with their information
+-**.dataset/puntuacionesFA.csv**: a dataset with all the movies rated by the user with their information
 
 -**requirements.txt**: packages required to execute the code
 
