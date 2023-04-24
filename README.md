@@ -26,7 +26,7 @@ Now open the FilmaffinityVoting.ipynb file in a jupyter prompt. Assign you user 
 
 -**./MemoriaPRAC1.pdf**: a description of the project in spanish
 
--**./PRAC1.mp4**: video explaining the project
+-**./PRAC1.mp4**: video explaining the project (https://drive.google.com/file/d/1Yts22dFBgrY6hRia3Tah7RdGzpDCz8Pr/view?usp=sharing)
 
 # Dataset DOI
 https://doi.org/10.5281/zenodo.7857233
