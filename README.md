@@ -1,3 +1,9 @@
+### Made by
+**Cesar Nicolas Ramos Milian**
+
+**Maria Rollan Martinez-Herrera**
+
+
 # How to use
 To use this repository you need to have jupyter notebook or jupyter lab installed.
 
@@ -22,8 +28,8 @@ Now open the FilmaffinityVoting.ipynb file in a jupyter prompt. Assign you user 
 
 -**PRAC1.mp4**: video explaining the project
 
+# Dataset DOI
+https://doi.org/10.5281/zenodo.7857233
 
-### Made by
-**Cesar Nicolas Ramos Milian**
 
-**Maria Rollan Martinez-Herrera**
+
